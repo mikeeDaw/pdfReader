@@ -21,7 +21,6 @@ function App() {
             name="file"
             id="file"
             className="w-[0.1px] h-[0.1px] opacity-0 absolute z-0 overflow-hidden"
-            accept=".csv"
           />
           <label
             htmlFor="file"
